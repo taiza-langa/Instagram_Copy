@@ -1,7 +1,6 @@
-## RECRIANDO o FEED DO INSTAGRAM com SSG
+## Recriando o Feed do Instagram
 Este projeto foi gerado usando o Angular CLI + SyncFusion e a estratégia de SSG.
 
-Servidor de desenvolvimento
 Para iniciar um servidor de desenvolvimento local, execute:
 
 ```bash
