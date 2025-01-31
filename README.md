@@ -27,6 +27,7 @@ Isso compilará seu projeto e armazenará os artefatos de build no dist/diretór
 
 ##
 
+
 ![image](https://github.com/user-attachments/assets/0ea25921-4bee-41a7-b467-a0f8ffd33f63)
 
 ![image](https://github.com/user-attachments/assets/fd33a712-40cd-4f31-9002-d29accc8ea21)
