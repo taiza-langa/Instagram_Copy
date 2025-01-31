@@ -24,8 +24,7 @@ ng build
 ```
 Isso compilará seu projeto e armazenará os artefatos de build no dist/diretório. Por padrão, o build de produção otimiza seu aplicativo para desempenho e velocidade.
 
-##
-
+## Resultado: 
 
 ![image](https://github.com/user-attachments/assets/0ea25921-4bee-41a7-b467-a0f8ffd33f63)
 
