@@ -1,4 +1,4 @@
-## InstagramCópia
+## RECRIANDO o FEED DO INSTAGRAM com SSG
 Este projeto foi gerado usando o Angular CLI + SyncFusion e a estratégia de SSG.
 
 Servidor de desenvolvimento
