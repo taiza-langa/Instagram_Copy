@@ -1,4 +1,4 @@
-## Recriando o Feed do Instagram
+## Recriando o Feed do Instagram Com Angular
 Este projeto foi gerado usando o Angular CLI + SyncFusion e a estratégia de SSG.
 
 Para iniciar um servidor de desenvolvimento local, execute:
